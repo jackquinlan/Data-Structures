@@ -1,2 +1,5 @@
-# Data-Structures
-Implementation of various data structures
+# Data Structures
+
+## Data Structures Implemented
+--> Linked List
+--> Priority Queue
