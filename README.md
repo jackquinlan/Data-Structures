@@ -1,5 +1,3 @@
-# Data Structures
+# Data Structures Implemented
 
-### Data Structures Implemented
-- Linked List
-- Priority Queue
+- Ring Buffer (C)
