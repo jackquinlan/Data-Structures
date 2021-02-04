@@ -5,7 +5,7 @@ CFLAGS=-std=gnu99 -Wall -pedantic -Werror
 
 all: rbuf_test
 
-ring.o: rbuf.c rbuf.h
+rbuf.o: rbuf.c rbuf.h
 	$(CC) $(CFLAGS) -c rbuf.c
 
 rbuf_test: rbuf.o rbuf_test.c
